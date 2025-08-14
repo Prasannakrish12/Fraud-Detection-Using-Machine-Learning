@@ -17,7 +17,7 @@ Built for educational purposes using a publicly available dataset.
 - **Fraud_Detection.ipynb** – Main Jupyter Notebook with the complete project code  
 - **dataset.csv** – Sample dataset used for training and evaluation (public dataset)
 ## Dataset Link
-[![View on Kaggle](https://www.kaggle.com/datasets/username/dataset-name](https://www.kaggle.com/datasets/prasannakrish12/fraud-detection-using-ml-dataset)
+[View on Kaggle](https://www.kaggle.com/datasets/prasannakrish12/fraud-detection-using-ml-dataset)
 
 ## How to Run
 
