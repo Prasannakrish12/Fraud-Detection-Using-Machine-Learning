@@ -1,6 +1,6 @@
 # Fraud Detection using Machine Learning
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/USERNAME/REPO_NAME/blob/main/Fraud_Detection.ipynb](https://colab.research.google.com/drive/1QAeftjrr_k_RbSRuyA_NL509_uCDtsiL?usp=sharing)](https://colab.research.google.com/drive/1QAeftjrr_k_RbSRuyA_NL509_uCDtsiL?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QAeftjrr_k_RbSRuyA_NL509_uCDtsiL?usp=sharing)
 
 An end-to-end machine learning project for detecting fraudulent transactions using Python.  
 Covers data preprocessing, feature engineering, model training, and evaluation with metrics like accuracy, precision, recall, and ROC-AUC.  
@@ -18,6 +18,7 @@ Built for educational purposes using a publicly available dataset.
 - **dataset.csv** – Sample dataset used for training and evaluation (public dataset)
 
 ## How to Run
+
 **In Google Colab**  
 Click the badge above to run the notebook instantly in Google Colab without installation.  
 
